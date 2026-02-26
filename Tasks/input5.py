@@ -1,0 +1,13 @@
+print("Employee Details..")
+print("-------------------")
+name=input("Enter your name:")
+id=int(input("Enter your id:"))
+dept=input("Enter your Department:")
+salary=float(input("Your Salary"))
+print("------------------------")
+
+print("TCS")
+print("Welcome To TCS",name,"!!")
+print("Your Departmet is:",dept)
+print("According to your Department",name, "your id is:",id)
+print("Your salary is:",salary)
